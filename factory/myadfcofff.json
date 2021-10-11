@@ -1,0 +1,9 @@
+{
+	"name": "myadfcofff",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5627c422-4262-46e9-a07d-71af4bd5d3c1",
+		"tenantId": "534e1c2e-a344-4f2e-a341-2e3060a68dcd"
+	}
+}
